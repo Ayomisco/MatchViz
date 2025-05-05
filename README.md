@@ -1,8 +1,14 @@
 # MatchViz
 
+![MatchViz Screenshot](screenshot.png)
+
 MatchViz is a real-time football visualization platform that brings every match to life with animated player tracking, live event overlays, and an interactive timeline — all in a sleek, responsive interface built for fans, analysts, and enthusiasts.
 
 ## Getting Started
+
+### Live Link
+
+http://matchviz01.vercel.app/
 
 ### Prerequisites
 
